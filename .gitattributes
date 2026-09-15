@@ -1,0 +1,11 @@
+# This file is used to override language statistics
+public/index.html linguist-vendored
+*.jpeg binary   
+**/*.py linguist-detectable
+
+Cargo.lock linguist-generated
+*.min.css linguist-generated
+
+*.py linguist-detectable
+* text=auto eol=lf
+public/** linguist-vendored
